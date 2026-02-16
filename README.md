@@ -62,8 +62,8 @@
 
 ## 🤝 Let’s Connect
 - 🌐 Portfolio: https://pranavsoni.dev
-- 💼 LinkedIn: (add your LinkedIn URL)
-- 📫 Email: (add professional email)
+- 💼 LinkedIn: https://www.linkedin.com/in/pranav-sonii
+- 📫 Email: pranavsoni.ps@gmail.com
 
 ---
 
