@@ -1,70 +1,53 @@
-# 👋 Hi, I'm Pranav Soni
+# Hey, I'm Pranav 👋
 
-🚀 Software Engineer | Full-Stack Developer | Problem Solver  
-💡 Building scalable web apps, clean APIs, and production-ready systems  
-
----
-
-## 🧠 About Me
-- 💻 3+ years of experience in **Web Development**
-- 🧩 Strong in **JavaScript, Node.js, Express, React, Laravel**
-- 🗄️ Worked with **PostgreSQL, MySQL**
-- ⚙️ Comfortable with **REST APIs, Authentication, CI/CD basics**
-- 📈 Focused on **performance, scalability & clean architecture**
-- 🌍 Actively looking for **remote & global opportunities**
+**Backend Engineer** building production systems with Node.js, Python, and PHP.  
+3+ years shipping real products — SaaS platforms, logistics backends, fintech tools, and AI-integrated APIs.  
+Based in Udaipur 🇮🇳 · Open to remote / hybrid backend roles.
 
 ---
 
-## 🛠️ Tech Stack
+## What I build
 
-**Languages**
-- JavaScript (ES6+), C++, PHP, Python (basic)
-
-**Frontend**
-- React, Next.js, HTML, CSS, Tailwind
-
-**Backend**
-- Node.js, Express, Laravel
-
-**Database**
-- PostgreSQL, MySQL
-
-**Tools & DevOps**
-- Git, GitHub, Nginx, Linux, Docker (basic), AWS / DigitalOcean
+- **Transactional backends** — 1,200+ weekly transactions on a logistics platform I built and own end-to-end
+- **Fintech-adjacent systems** — Razorpay webhooks, credit ledgers, atomic stock transactions, payment reconciliation
+- **Async infrastructure** — Celery workers, BullMQ/Redis job queues, FastAPI microservices
+- **SaaS platforms** — Finance SaaS (invoicing, P&L), AI admissions platform, referral-based job portal
+- **AI-integrated tools** — LLM pipelines (OpenAI + Gemini), format-preserving resume rewriter using Google Docs API
 
 ---
 
-## 🚀 Featured Projects
+## Stack
 
-### 🔹 Full-Stack CMS & Admin Dashboard
-- Built scalable admin dashboards using React + REST APIs  
-- Role-based access, JWT auth, production deployment  
-- Used in real-world business applications  
-
-### 🔹 E-commerce & Inventory Systems
-- Product, order & inventory management  
-- Secure backend APIs with optimized DB queries  
-
-### 🔹 Custom Web Platforms
-- Built landing pages, blogs, CMS & dashboards from scratch  
-- SEO-friendly, fast, production-ready deployments  
-
-👉 **More projects below ↓**
+**Backend** · Node.js · Express · FastAPI · Laravel · PHP  
+**Frontend** · React · Next.js · TypeScript · Tailwind  
+**Databases** · PostgreSQL · MySQL · MongoDB · Redis  
+**Infra** · Docker · AWS (Lightsail, EC2) · Nginx · CI/CD  
+**Auth** · JWT · RBAC · OAuth 2.0 · Laravel Sanctum  
 
 ---
 
-## 📈 GitHub Stats
+## Selected Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PranavsoniTM&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranavsoniTM&layout=compact&theme=tokyonight)
+| Project | What it does | Stack |
+|---|---|---|
+| **Smart Dairy** | Logistics & delivery platform — 60+ APIs, GPS tracking, QR verification | Node.js · PostgreSQL · JWT |
+| **Catalog Ecommerce** | Inventory + orders with atomic transactions, credit ledger, Razorpay webhooks | Next.js · Prisma · Redis · BullMQ |
+| **AI Resume Optimizer** | Ingests Google Doc + JD → rewrites bullets via LLM → saves new Doc preserving format | FastAPI · Gemini/OpenAI · Google Docs API |
+| **MSME Finance SaaS** | Invoicing, quotations, P&L — web + mobile REST APIs | Laravel · PHP · MySQL |
+| **QR Event Attendance** | Bulk QR generation offloaded to FastAPI + Celery — 90% faster card generation | FastAPI · Celery · PHP |
+| **Construction ERP** | Budgets, inventory, workforce — RBAC, audit trails, 10+ interconnected tables | Next.js · Laravel · AWS Lightsail |
 
 ---
 
-## 🤝 Let’s Connect
-- 🌐 Portfolio: https://pranavsoni.dev
-- 💼 LinkedIn: https://www.linkedin.com/in/pranav-sonii
-- 📫 Email: pranavsoni.ps@gmail.com
+## Currently Building
+
+🔧 **Async Job Queue** — Python + raw Redis primitives (`redis.asyncio`). Replicating Celery internals: LIST for queue, SORTED SET for delayed jobs, HASH for metadata, decorator-based job registry.  
+Next up: **distributed rate limiter** in Redis.
 
 ---
 
-⭐ If you like my work, consider starring my repositories
+## Reach me
+
+📧 pranavsoni.ps@gmail.com  
+💼 [LinkedIn](https://linkedin.com/in/pranav-sonii)  
+🌐 [Portfolio](https://pranavsoni.dev) 
